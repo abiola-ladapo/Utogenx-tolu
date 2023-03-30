@@ -1,0 +1,17 @@
+input{
+ outline: none;
+}
+.news-container{
+ overflow-x: none;
+}
+.news-input{
+ position: relative;
+}
+.news-btn{
+ position: absolute;
+}
+/* @media screen and (min-width: 414px) {
+.news-subscribe{
+ display: none;
+}
+} */
